@@ -1,6 +1,7 @@
 # Express application generator
 
-"The app structure created by the generator is just one of many ways to structure Express apps. Feel free to use this structure or modify it to best suit your needs."
+"The app structure created by the generator is just one of many ways to structure Express apps. 
+Feel free to use this structure or modify it to best suit your needs."
 
 http://expressjs.com/en/starter/generator.html
 
